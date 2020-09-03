@@ -108,7 +108,7 @@
 
       $(function() {
           element.typed({
-              strings: ["Creative Graphic Designer", "Creative Web Developer"],
+              strings: ["De cantuteños", "Para cantuteños"],
               typeSpeed: 80,
               loop: true,
           });
